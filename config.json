@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["275329956173709312"],
+        "ACTIVITY_TEXT": "calismiyom",
+        "GUILD_ID": "1054819696093974568",
+        "VOICE_CHANNEL": "1054819696555335811",
+        "MIN_STAFF_ROLE": "1026943553030594571"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome-voice.mp3",
+        "STAFF": "default_files/staff-voice.mp3"
+    },
+    "TOKEN": "MTAyNzI1NzQzODc1MzI2MzY5Ng.GE1DCk.7H_ZhFOhw4YrDnY3GpgzjP6Oozx2aY66j0SfMA"
+}
